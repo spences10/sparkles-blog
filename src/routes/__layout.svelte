@@ -12,7 +12,13 @@
 
 <script>
   import Nav from '$lib/nav.svelte'
-  import '../app.postcss'
+  import { onMount } from 'svelte'
+  import { themeChange } from 'theme-change'
+  import '../app.css'
+
+  onMount(async () => {
+    themeChange(false)
+  })
 
   export let pages
 </script>
