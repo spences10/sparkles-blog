@@ -1,4 +1,5 @@
-import preprocess from "svelte-preprocess";
+import preprocess from 'svelte-preprocess'
+
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   kit: {
@@ -6,9 +7,11 @@ const config = {
     target: '#svelte',
   },
 
-  preprocess: [preprocess({
-    postcss: true
-  })]
+  preprocess: [
+    preprocess({
+      postcss: true,
+    }),
+  ],
 }
 
 export default config
