@@ -1,5 +1,5 @@
 <script context="module">
-  export const load = async ({ fetch, page: { params } }) => {
+  export const load = async ({ fetch, params }) => {
     const { slug } = params
     const res = await fetch(`/posts/${slug}.json`)
     if (res.ok) {
