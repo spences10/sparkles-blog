@@ -2,7 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   '@sveltejs/adapter-static': 1.0.0-next.26
-  '@sveltejs/adapter-vercel': 1.0.0-next.39
+  '@sveltejs/adapter-vercel': 1.0.0-next.40
   '@sveltejs/kit': next
   '@tailwindcss/typography': 0.5.1
   autoprefixer: 10.4.2
@@ -22,8 +22,8 @@ specifiers:
 
 devDependencies:
   '@sveltejs/adapter-static': 1.0.0-next.26
-  '@sveltejs/adapter-vercel': 1.0.0-next.39
-  '@sveltejs/kit': 1.0.0-next.247_svelte@3.46.3
+  '@sveltejs/adapter-vercel': 1.0.0-next.40
+  '@sveltejs/kit': 1.0.0-next.251_svelte@3.46.3
   '@tailwindcss/typography': 0.5.1_tailwindcss@3.0.15
   autoprefixer: 10.4.2_postcss@8.4.5
   cssnano: 5.0.16_postcss@8.4.5
@@ -98,14 +98,14 @@ packages:
       tiny-glob: 0.2.9
     dev: true
 
-  /@sveltejs/adapter-vercel/1.0.0-next.39:
-    resolution: {integrity: sha512-YOPGKIILm26h22GN4/iliXce61aTG3Dq5hX8xpDx0cNuCocv0OoLfIqiGpdyJ9NIMpjwXmpVoL4+nV+yh2wcSA==}
+  /@sveltejs/adapter-vercel/1.0.0-next.40:
+    resolution: {integrity: sha512-HJkfjP+tN0r+3tQZofSN6tCE/60fiIDg5dA7+SD4tNio1DADE1W5YhUZGvMQkjOe8kTSKE8/BdgLbwrqeLmDKg==}
     dependencies:
       esbuild: 0.13.15
     dev: true
 
-  /@sveltejs/kit/1.0.0-next.247_svelte@3.46.3:
-    resolution: {integrity: sha512-8xoSxJ3+Zid4y53dXd9lTLp94heYV1qmCEN6K2sjkFNELy2VaQ0/AWj2z0HWMnUQ2/iojb63OQvdXC46NaV+sQ==}
+  /@sveltejs/kit/1.0.0-next.251_svelte@3.46.3:
+    resolution: {integrity: sha512-7GtUrUHqOa7ISo86PlICcMKcfGodOZwP9p7hXnN4t1yMWIQD2eKZlJffvnwx1X+NMcJ8hLChgcjGYjc1xZABhQ==}
     engines: {node: '>=14.13'}
     hasBin: true
     peerDependencies:
