@@ -17,14 +17,14 @@ specifiers:
   prettier-plugin-svelte: 2.6.0
   svelte: 3.46.4
   svelte-preprocess: 4.10.3
-  tailwindcss: 3.0.22
+  tailwindcss: 3.0.23
   theme-change: 2.0.2
 
 devDependencies:
   '@sveltejs/adapter-static': 1.0.0-next.28
   '@sveltejs/adapter-vercel': 1.0.0-next.43
   '@sveltejs/kit': 1.0.0-next.278_svelte@3.46.4
-  '@tailwindcss/typography': 0.5.2_tailwindcss@3.0.22
+  '@tailwindcss/typography': 0.5.2_tailwindcss@3.0.23
   autoprefixer: 10.4.2_postcss@8.4.6
   cssnano: 5.0.17_postcss@8.4.6
   daisyui: 2.0.9_833e1018ad0d7954aa80c53675939269
@@ -37,7 +37,7 @@ devDependencies:
   prettier-plugin-svelte: 2.6.0_prettier@2.5.1+svelte@3.46.4
   svelte: 3.46.4
   svelte-preprocess: 4.10.3_06670835898ebc1da7d1c97a8716c619
-  tailwindcss: 3.0.22_autoprefixer@10.4.2
+  tailwindcss: 3.0.23_autoprefixer@10.4.2
   theme-change: 2.0.2
 
 packages:
@@ -146,7 +146,7 @@ packages:
       - supports-color
     dev: true
 
-  /@tailwindcss/typography/0.5.2_tailwindcss@3.0.22:
+  /@tailwindcss/typography/0.5.2_tailwindcss@3.0.23:
     resolution: {integrity: sha512-coq8DBABRPFcVhVIk6IbKyyHUt7YTEC/C992tatFB+yEx5WGBQrCgsSFjxHUr8AWXphWckadVJbominEduYBqw==}
     peerDependencies:
       tailwindcss: '>=3.0.0 || >= 3.0.0-alpha.1 || insiders'
@@ -154,7 +154,7 @@ packages:
       lodash.castarray: 4.4.0
       lodash.isplainobject: 4.0.6
       lodash.merge: 4.6.2
-      tailwindcss: 3.0.22_autoprefixer@10.4.2
+      tailwindcss: 3.0.23_autoprefixer@10.4.2
     dev: true
 
   /@trysound/sax/0.2.0:
@@ -544,7 +544,7 @@ packages:
       autoprefixer: 10.4.2_postcss@8.4.6
       color: 4.2.1
       postcss: 8.4.6
-      tailwindcss: 3.0.22_autoprefixer@10.4.2
+      tailwindcss: 3.0.23_autoprefixer@10.4.2
     transitivePeerDependencies:
       - ts-node
     dev: true
@@ -1837,8 +1837,8 @@ packages:
       stable: 0.1.8
     dev: true
 
-  /tailwindcss/3.0.22_autoprefixer@10.4.2:
-    resolution: {integrity: sha512-F8lt74RlNZirnkaSk310+vGQta7c0/hgx7/bqxruM4wS9lp8oqV93lzavajC3VT0Lp4UUtUVIt8ifKcmGzkr0A==}
+  /tailwindcss/3.0.23_autoprefixer@10.4.2:
+    resolution: {integrity: sha512-+OZOV9ubyQ6oI2BXEhzw4HrqvgcARY38xv3zKcjnWtMIZstEsXdI9xftd1iB7+RbOnj2HOEzkA0OyB5BaSxPQA==}
     engines: {node: '>=12.13.0'}
     hasBin: true
     peerDependencies:
