@@ -1,7 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@sveltejs/adapter-static': 1.0.0-next.28
+  '@sveltejs/adapter-static': 1.0.0-next.29
   '@sveltejs/adapter-vercel': 1.0.0-next.46
   '@sveltejs/kit': next
   '@tailwindcss/typography': 0.5.2
@@ -21,7 +21,7 @@ specifiers:
   theme-change: 2.0.2
 
 devDependencies:
-  '@sveltejs/adapter-static': 1.0.0-next.28
+  '@sveltejs/adapter-static': 1.0.0-next.29
   '@sveltejs/adapter-vercel': 1.0.0-next.46
   '@sveltejs/kit': 1.0.0-next.294_svelte@3.46.4
   '@tailwindcss/typography': 0.5.2_tailwindcss@3.0.23
@@ -92,8 +92,8 @@ packages:
       picomatch: 2.3.1
     dev: true
 
-  /@sveltejs/adapter-static/1.0.0-next.28:
-    resolution: {integrity: sha512-c4xLyeSwnbGQxe4f1SLpHTbxZDm3TEr43scR3tOlVgQN+mnAL9aDdl3nTtdzWmrUDmDEmY4GriAwLyFLZuINLw==}
+  /@sveltejs/adapter-static/1.0.0-next.29:
+    resolution: {integrity: sha512-0hjGnfT3BRyoHnzJ2w0/xL+xICRpKneDTm45ZzggiRrc0r71WJfF6toGeg8N4QUQnj8EJ3Itm453gsS1kt7VUQ==}
     dependencies:
       tiny-glob: 0.2.9
     dev: true
