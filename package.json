@@ -15,7 +15,7 @@
     "@tailwindcss/typography": "0.5.2",
     "autoprefixer": "10.4.7",
     "cssnano": "5.1.11",
-    "daisyui": "2.15.2",
+    "daisyui": "2.15.3",
     "env-cmd": "10.1.0",
     "graphql": "16.5.0",
     "graphql-request": "4.3.0",
